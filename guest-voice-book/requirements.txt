@@ -1,0 +1,5 @@
+python-statemachine
+gpiozero
+RPi.GPIO
+pygame
+pydub
